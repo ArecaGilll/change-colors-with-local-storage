@@ -13,5 +13,6 @@ for (var i = 0; i < el.length; i++) {
             document.body.classList.add(this.getAttribute("data-color"));
 .
             localStorage.setItem("pageColor",this.getAttribute("data-color"));
-    }, false);.
+    }, false);....main hgf
+
 }
